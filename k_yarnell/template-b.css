@@ -70,7 +70,7 @@ body{
 }
 
 /* This is the large box that contains all other divs in the layout and fills the web page area*/
-.mainbox{width:100%;margin-left:10%;margin-right:10%;margin-bottom:220px;}
+.mainbox{max-width:1400px;margin:0 auto 220px auto;}
 
 /* This is the top navigation section that extends horizonally across the top. */
 .topnavbox{width:71%;height:130px;background-color: darkgrey;}

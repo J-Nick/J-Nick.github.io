@@ -119,6 +119,10 @@ a:hover {
 	margin-top: 100px;
 }
 
+.normalpagebox img {
+	width: 100%;
+}
+
 /* This is the brown box for the content at the bottom of the window*/
 .bottomboxcontent{width:71%;float:left;height:80px;padding-top:20px;text-align: center; font-family: 'Nunito Sans', sans-serif;font-size: 22px;color:white;background-color: rgba(80,190,154,1.00);}
 
